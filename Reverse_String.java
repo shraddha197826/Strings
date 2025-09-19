@@ -21,3 +21,6 @@ public class Reverse_String
 	}
 
 }
+
+// OUTPUT :
+//  AHDDARHS
